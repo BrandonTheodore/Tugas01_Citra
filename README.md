@@ -34,26 +34,7 @@ addpath scripts
 runAllDataset
 ```
 
-## Metode per Citra
 
-| Citra | Metode |
-|---|---|
-| Kasus 1 / 01 | HE |
-| Kasus 1 / 02 | HE |
-| Kasus 1 / 03 | HE (luminansi) |
-| Kasus 1 / 04 | HE |
-| Kasus 2 / 01 | contrast stretching + gamma 1.6 |
-| Kasus 2 / 02 | HE |
-| Kasus 2 / 03 | histogram matching ke Kasus 1/03 |
-| Kasus 2 / 04 | histogram matching ke Gaussian (128, 60) |
-| Kasus 3 / 01 | contrast stretching |
-| Kasus 3 / 02 | contrast stretching |
-| Kasus 3 / 03 | contrast stretching + gamma 1.3 |
-| Kasus 3 / 04 | contrast stretching + gamma 0.8 |
-| Kasus 4 / 01 | median 3x3 |
-| Kasus 4 / 02 | median 3x3 per kanal RGB |
-| Kasus 4 / 03 | median 3x3 + Gaussian 5x5 + contrast stretching |
-| Kasus 4 / 04 | unsharp masking + contrast stretching |
 
 ## Anggota Kelompok
 
